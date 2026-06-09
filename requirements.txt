@@ -1,0 +1,5 @@
+# WaveSense-CLI Dependencies
+# Pure Python implementation - zero external dependencies required!
+# All functionality uses Python standard library only.
+
+# Python >= 3.8 required
